@@ -29,6 +29,11 @@ Also, there are 'static', 'templates' and 'migrations' repositories in 'fooballe
 - 'migrations' is for saving changes you make to models (database). // It is recommended to not to change the database after you created it.
 
 
+## Database
+DBMS: SQLite
+The database file is attached as 'db.sqlite3'.
+
+
 ## Clarification
 The attached screenshots 'mainpage_screenshot.JPG' and 'database_screenshot.JPG' might be helpful to slightly look through the project.
 
