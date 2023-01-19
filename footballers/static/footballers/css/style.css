@@ -1,0 +1,20 @@
+/*
+body {
+    background-color: gray;
+}
+*/
+.green-color {
+    color: #198754;
+    text-decoration: underline dotted #198754;
+}
+
+
+p.post-date{
+    text-align: right;
+}
+
+body {
+    text-decoration: none;
+}
+
+
