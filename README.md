@@ -9,7 +9,7 @@ Since this repository covers the initial stages of a large project, most of view
 
 For example:
 - For [Windows](https://youtu.be/IwTwoZgo8ZA)
-- For[MacOS](https://youtu.be/96OaaMwL5Ps)
+- For [MacOS](https://youtu.be/96OaaMwL5Ps)
 
 Or you can go through the [official website](https://docs.djangoproject.com/en/4.1/topics/install/).
 
