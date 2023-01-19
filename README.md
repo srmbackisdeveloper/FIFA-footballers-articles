@@ -13,6 +13,7 @@ For example:
 
 Or you can go through the [official website](https://docs.djangoproject.com/en/4.1/topics/install/).
 
+
 ## Project
 Guys, consider this as main part because we will talk about the project itself.
 The repository 'djangoProject3' contains the main python files. Mainly, the files 'settings.py' and 'urls.py' are manageable and helpful.
@@ -22,6 +23,7 @@ The repository 'footballers' called as application (app), contains the same pyth
 'models.py' is for database.
 
 'admin.py' is for admin panel.
+
 
 Also, there are 'static', 'templates' and 'migrations' repositories in 'fooballers' app.
 
@@ -34,6 +36,7 @@ Also, there are 'static', 'templates' and 'migrations' repositories in 'fooballe
 
 ## Clarification
 The attached screenshots 'mainpage_screenshot.JPG' and 'database_screenshot.JPG' might be helpful to slightly look through the project.
+
 
 ## License
 [FIFA](https://www.fifa.com/)
