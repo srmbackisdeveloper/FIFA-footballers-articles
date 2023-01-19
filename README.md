@@ -18,12 +18,17 @@ Guys, consider this as main part because we will talk about the project itself.
 The repository 'djangoProject3' contains the main python files. Mainly, the files 'settings.py' and 'urls.py' are manageable and helpful.
 
 The repository 'footballers' called as application (app), contains the same python files with optionally added 'models.py' and 'admin.py' files. 
+
 'models.py' is for database.
+
 'admin.py' is for admin panel.
 
 Also, there are 'static', 'templates' and 'migrations' repositories in 'fooballers' app.
+
 'static' is for css and js files.
+
 'templates' is for html files.
+
 'migrations' is for saving changes you make to models (database). // It is recommended to not to change the database after you created it.
 
 
