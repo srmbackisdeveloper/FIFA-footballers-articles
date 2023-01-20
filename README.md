@@ -37,6 +37,9 @@ DBMS: SQLite
 
 The database file is attached as 'db.sqlite3'
 
+
+This is a piece of code that creates the Footballers table in our database:
+
 ```python
 from django.db import models
 
