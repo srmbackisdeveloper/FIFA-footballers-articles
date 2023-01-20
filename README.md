@@ -15,7 +15,7 @@ Or you can go through the [official website](https://docs.djangoproject.com/en/4
 
 
 ## Project
-Guys, consider this as main part because we will talk about the project itself.
+Let's talk about the project itself.
 The repository 'djangoProject3' contains the main python files. Mainly, the files 'settings.py' and 'urls.py' are manageable and helpful.
 
 The repository 'footballers' called as application (app), contains the same python files with optionally added 'models.py' and 'admin.py' files. 
@@ -31,8 +31,20 @@ Also, there are 'static', 'templates' and 'migrations' repositories in 'fooballe
 
 ## Database
 DBMS: SQLite
+
 The database file is attached as 'db.sqlite3'.
 
+```python
+from django.db import models
+from django.urls import reverse
+
+# creating Footballers table
+class Footballers(models.Model):
+    title = models.CharField(max_length=100)
+    content = models.TextField(blank=True)
+    photo = models.ImageField(upload_to="photos/%Y/%m/%d/")
+# and so on...
+```
 
 ## Clarification
 The attached screenshots 'mainpage_screenshot.JPG' and 'database_screenshot.JPG' might be helpful to slightly look through the project.
