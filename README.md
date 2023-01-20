@@ -56,6 +56,4 @@ The attached screenshots 'mainpage_screenshot.JPG' and 'database_screenshot.JPG'
 
 
 ## License
-Federation Internationale de Football Association
-
-[FIFA](https://www.fifa.com/)
+Federation Internationale de Football Association [(FIFA)](https://www.fifa.com/)
