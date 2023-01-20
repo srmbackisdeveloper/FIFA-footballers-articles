@@ -26,17 +26,19 @@ The repository 'footballers' called as application (app), contains the same pyth
 Also, there are 'static', 'templates' and 'migrations' repositories in 'fooballers' app.
 - 'static' is for css and js files.
 - 'templates' is for html files.
-- 'migrations' is for saving changes you make to models (database). // It is recommended to not to change the database after you created it.
+- 'migrations' is for saving changes you make to models (database). 
 
+```bash
+It is recommended to not to change the database after you created it.
+```
 
 ## Database
 DBMS: SQLite
 
-The database file is attached as 'db.sqlite3'.
+The database file is attached as 'db.sqlite3'
 
 ```python
 from django.db import models
-from django.urls import reverse
 
 # creating Footballers table
 class Footballers(models.Model):
